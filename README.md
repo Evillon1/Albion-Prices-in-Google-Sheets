@@ -11,3 +11,5 @@ Create your table in Google Sheets and change this line: sheet = client.open ("P
 The script is configured on my Spreadsheet, you can change the numbers in the script to fit your Spreadsheet, as well as add other items, everything is quite simple there.
 
 My spreadsheet: https://docs.google.com/spreadsheets/d/1ln_KJDhjmpxyc2PsB_PxmS_8p2GQ-Rq7Dzv0ZNpvvy8
+
+(Do not try to run 2 scripts! Google has a maximum cell change of 100 seconds!)
