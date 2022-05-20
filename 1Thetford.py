@@ -62,4 +62,3 @@ thread3.start()
 thread4.start()
 thread5.start()
 thread6.start()
-#  Да я вообще ни слова бля не понял :D ©Doomination
